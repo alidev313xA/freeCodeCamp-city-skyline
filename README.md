@@ -50,7 +50,7 @@ This project helped me:
 
 ## 🔗 Live Demo
 
-[Click here to view the live demo](https://your-vercel-link-here.vercel.app)
+[Click here to view the live demo](https://free-code-camp-city-skyline-delta.vercel.app/)
 
 🧪 **Try it yourself:**  
 Please **resize your browser** — not only is the layout responsive, but once the window width crosses **1000px**, the **skyline changes from night to day** using media queries and CSS variables!
